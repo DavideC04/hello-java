@@ -6,5 +6,5 @@ public class HelloJava {
         System.out.println("This is my first Java program");
         System.out.println("Bye Bye");
 
-}
+    }
 }
